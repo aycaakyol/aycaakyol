@@ -34,5 +34,5 @@
 - [E-Commerce Website Backend](https://github.com/aycaakyol/e-commerce-backend)
 - [OpenWeather Map](https://github.com/aycaakyol/open-weather-map)
 - [Evermore - MLaaS Project](https://github.com/orgs/aag-bitirme-projesi/repositories)
-- [HU Room Reservation](https://github.com/aycaakyol/e-commerce-backend)
+- [HU Room Reservation](https://github.com/aycaakyol/hu-room-reservation)
 
